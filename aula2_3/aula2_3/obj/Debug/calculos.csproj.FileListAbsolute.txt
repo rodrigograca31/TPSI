@@ -1,0 +1,3 @@
+C:\Users\I-NOZex\documents\visual studio 2012\Projects\aula2_3\aula2_3\bin\Debug\aula2_3.exe.config
+C:\Users\I-NOZex\documents\visual studio 2012\Projects\aula2_3\aula2_3\obj\Debug\aula2_3.exe
+C:\Users\I-NOZex\documents\visual studio 2012\Projects\aula2_3\aula2_3\obj\Debug\aula2_3.pdb

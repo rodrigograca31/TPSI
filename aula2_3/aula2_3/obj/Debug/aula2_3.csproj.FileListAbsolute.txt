@@ -1,0 +1,6 @@
+c:\users\i-nozex\documents\visual studio 2012\Projects\aula2_3\aula2_3\bin\Debug\aula2_3.exe.config
+c:\users\i-nozex\documents\visual studio 2012\Projects\aula2_3\aula2_3\obj\Debug\aula2_3.csprojResolveAssemblyReference.cache
+c:\users\i-nozex\documents\visual studio 2012\Projects\aula2_3\aula2_3\bin\Debug\aula2_3.exe
+c:\users\i-nozex\documents\visual studio 2012\Projects\aula2_3\aula2_3\bin\Debug\aula2_3.pdb
+c:\users\i-nozex\documents\visual studio 2012\Projects\aula2_3\aula2_3\obj\Debug\aula2_3.exe
+c:\users\i-nozex\documents\visual studio 2012\Projects\aula2_3\aula2_3\obj\Debug\aula2_3.pdb

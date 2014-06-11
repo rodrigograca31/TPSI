@@ -1,0 +1,6 @@
+C:\Users\I-NOZex\documents\visual studio 2012\Projects\aula2_3\animais\bin\Debug\animais.exe.config
+C:\Users\I-NOZex\documents\visual studio 2012\Projects\aula2_3\animais\bin\Debug\animais.exe
+C:\Users\I-NOZex\documents\visual studio 2012\Projects\aula2_3\animais\bin\Debug\animais.pdb
+C:\Users\I-NOZex\documents\visual studio 2012\Projects\aula2_3\animais\obj\Debug\animais.csprojResolveAssemblyReference.cache
+C:\Users\I-NOZex\documents\visual studio 2012\Projects\aula2_3\animais\obj\Debug\animais.exe
+C:\Users\I-NOZex\documents\visual studio 2012\Projects\aula2_3\animais\obj\Debug\animais.pdb
