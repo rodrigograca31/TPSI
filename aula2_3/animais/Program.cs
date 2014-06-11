@@ -17,7 +17,7 @@ namespace animais {
             Console.WriteLine("1 - Mamifero");
             Console.WriteLine("2 - Reptil");
             Console.WriteLine("3 - Ave");
-            Console.WriteLine("0 - Sair");
+            Console.WriteLine("0 - Sair.");
             opt = int.Parse(Console.ReadLine());
             int peso = 0;
             int altura = 0;
